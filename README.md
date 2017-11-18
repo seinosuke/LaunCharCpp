@@ -21,6 +21,8 @@ Windows7では背景の透過処理が行われないという問題が発生し
 
 ## ダウンロード
 
+[LaunChar.zip](https://github.com/seinosuke/LaunCharCpp/releases/download/0.1.0/LaunChar.zip)
+
 ## 使い方
 
 LaunChar.exe を起動するだけです。他のウィンドウで作業をしていると、キーボードで打った文字が画面上に飛び出してきます。  
